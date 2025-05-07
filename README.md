@@ -8,7 +8,7 @@ In this project, we explore and analyze a real-world hotel booking dataset to un
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 
@@ -19,11 +19,11 @@ hotel-data-analysis/
 │   └── Hotel.ipynb
 └── README.md              # Project description and instructions
 
-````
+```
 
 
 
-## 🧹 Data Cleaning Steps
+##  Data Cleaning Steps
 
 The dataset was first cleaned and prepared for analysis using the following steps:
 
@@ -34,7 +34,7 @@ The dataset was first cleaned and prepared for analysis using the following step
 
 
 
-## 📊 Analysis Questions
+## Analysis Questions
 
 Here are some of the key business questions explored in this project:
 
@@ -45,7 +45,7 @@ Here are some of the key business questions explored in this project:
 
 
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Python 
 - Pandas & NumPy
@@ -55,7 +55,7 @@ Here are some of the key business questions explored in this project:
 
 
 
-## 📌 Notes
+##  Notes
 
 * This project is a part of a data analysis mentorship program.
 * Dataset used is publicly available and included in the `/data` folder.
